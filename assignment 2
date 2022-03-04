@@ -1,0 +1,4 @@
+t1=(1,2,3,4,5,9)
+t2=('sonu','sampath','sanju','sunil','chatu','teju')
+t3=t1+t2
+print(t3)
